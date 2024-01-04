@@ -1,4 +1,4 @@
-# RailwayHistoryMap
+# Railway History Map
 Открытый проект по истории железных дорог на карте
 
 [Карта](https://railwayhistorymap.github.io/)
